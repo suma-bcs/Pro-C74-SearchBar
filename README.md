@@ -1,1 +1,2 @@
-# Pro-C74-SearchBar
+# searchBar
+Added search bar to the wily App
